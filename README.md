@@ -26,7 +26,8 @@
 <a href='https://github.com/monir-shembesh/github-stats-transparent'>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monir-shembesh&show_icons=true&theme=radical&count_private=true)
-![Most Used Languages](https://raw.githubusercontent.com/monir-shembesh/github-stats-transparent/output/generated/languages.svg)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="monir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-shembesh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
 
 </a>
 
