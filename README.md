@@ -28,10 +28,8 @@
 ### 📊 Github Stats
 <a href='https://github.com/Monir-Shembesh/github-stats-transparent'>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monir-shembesh&show_icons=true&theme=dracula&count_private=true)
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="monir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-shembesh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
- -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=monir-shembesh&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monir-shembesh&theme=dark)](https://git.io/streak-stats)
 </a>
 
 <br>
