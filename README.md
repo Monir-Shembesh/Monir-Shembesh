@@ -6,8 +6,8 @@
 ### Life progress:
 
 - 🔭 &nbsp; I’m currently working on a **University app**
-- 🌱 &nbsp; I’m currently learning Typescript in depth and preparing for AWS SAA; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🌱 &nbsp; I’m currently learning Typescript in depth and preparing for AWS SAA 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 <br/>
 
