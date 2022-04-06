@@ -1,4 +1,4 @@
-## I code to relax...
+<b>"A friend once told me: No one is good at everything"</b>
 
 ### 📚 Self Development:
 
