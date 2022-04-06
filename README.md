@@ -16,7 +16,10 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://gitlab.msu.edu/uploads/-/system/group/avatar/6051/docker_logo.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.serverless.com/" target="_blank"> <img src="https://www.brcline.com/wp-content/uploads/2020/05/serverless-framework-logo.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/terraform.png?itok=Ovrgdxb5" align="left" alt="git" height='42px'/> </a>
 
 <br/>
 <br/>
